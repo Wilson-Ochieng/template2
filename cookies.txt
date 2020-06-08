@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bootstrapmade.com	TRUE	/	FALSE	1999999999	sitevisitor	YTo0OntzOjc6InJlZmVyZXIiO047czo3OiJyZXF1ZXN0IjtzOjEyOiIvZGVtby9BcnNoYS8iO3M6MjoiaXAiO3M6MTI6IjE3Mi42OS4zNC45NCI7czo0OiJ0aW1lIjtpOjE1OTE2MTQwNjY7fQ%3D%3D
+.bootstrapmade.com	TRUE	/	FALSE	1999999999	__cfduid	dc76a21819ac49bf7c86b99e8a46065121591614068
+bootstrapmade.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
