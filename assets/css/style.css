@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #0ea120;
+  background: #086914;
 }
 
 #preloader:before {
@@ -1835,4 +1835,8 @@ section {
   #footer .credits {
     padding-top: 4px;
   }
+}
+#map{
+  height: 400px;
+  width: 100%;
 }
