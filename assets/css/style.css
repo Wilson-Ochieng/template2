@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #086914;
+  background: #0d681c;
 }
 
 #preloader:before {
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #37517e;
+  border: 6px solid #201c4f;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -98,7 +98,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top i:hover {
-  background: #209dd8;
+  background: #201c4f;
   color: #fff;
 }
 
@@ -112,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(8, 168, 75);
+  background: rgbargba(13, 104, 28, 1);
 }
 
 #header .logo {
@@ -165,7 +165,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #47b2e4;
+  color: #201c4f;
 }
 
 .nav-menu .drop-down ul {
@@ -256,7 +256,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
   font-size: 14px;
   display: inline-block;
-  border: 2px solid #0c691d;
+  border: 2px solid #201c4f;
   font-weight: 600;
 }
 
@@ -417,11 +417,11 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin: 10px 0 0 0;
   color: #fff;
-  background: #47b2e4;
+  background: #0d681c;
 }
 
 #hero .btn-get-started:hover {
-  background: #209dd8;
+  background: #201c4f;
 }
 
 #hero .btn-watch-video {
@@ -444,7 +444,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-watch-video:hover i {
-  color: #47b2e4;
+  color: #201c4f;
 }
 
 #hero .animated {
@@ -529,7 +529,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f3f5fa;
+  background-color: #0d681c;
 }
 
 .section-title {
@@ -564,7 +564,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #0d942f;
+  background: #0c691d;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -629,7 +629,7 @@ section {
   left: 0;
   top: 2px;
   font-size: 20px;
-  color: #47b2e4;
+  color: #0d681c;
   line-height: 1;
 }
 
@@ -647,16 +647,16 @@ section {
   border-radius: 4px;
   transition: 0.3s;
   line-height: 1;
-  color: #47b2e4;
+  color: #0d681c;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   margin-top: 6px;
-  border: 2px solid #47b2e4;
+  border: 2px solid #0d681c;
 }
 
 .about .content .btn-learn-more:hover {
-  background: #47b2e4;
-  color: #fff;
+  background: #ffffff;
+  color: #0d681c;
   text-decoration: none;
 }
 
@@ -670,7 +670,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #37517e;
+  color: #ffffff;
 }
 
 .why-us .content h4 {
@@ -705,7 +705,7 @@ section {
 
 .why-us .accordion-list li {
   padding: 20px;
-  background: #fff;
+  background: #0d681c;
   border-radius: 4px;
 }
 
@@ -721,7 +721,7 @@ section {
 }
 
 .why-us .accordion-list span {
-  color: #47b2e4;
+  color: #ffffff;
   font-weight: 600;
   font-size: 18px;
   padding-right: 10px;
@@ -740,15 +740,15 @@ section {
 }
 
 .why-us .accordion-list .icon-show {
-  display: none;
+  display: #0d681c;
 }
 
 .why-us .accordion-list a.collapsed {
-  color: #343a40;
+  color: #ffffff;
 }
 
 .why-us .accordion-list a.collapsed:hover {
-  color: #47b2e4;
+  color: #ffffff;
 }
 
 .why-us .accordion-list a.collapsed .icon-show {
@@ -790,7 +790,7 @@ section {
 .skills .content h3 {
   font-weight: 700;
   font-size: 32px;
-  color: #37517e;
+  color: #0d681c;
   font-family: "Poppins", sans-serif;
 }
 
@@ -826,7 +826,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #37517e;
+  color: #0d681c;
 }
 
 .skills .progress .skill .val {
@@ -835,14 +835,14 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #e8edf5;
+  background: #0d681c;
 }
 
 .skills .progress-bar {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #4668a2;
+  background-color: #0d681c;
 }
 
 /*--------------------------------------------------------------
@@ -860,7 +860,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color: #47b2e4;
+  color: #0d681c;
   font-size: 36px;
   transition: 0.3s;
 }
@@ -872,7 +872,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #37517e;
+  color: #0d681c;
   transition: ease-in-out 0.3s;
 }
 
@@ -887,7 +887,7 @@ section {
 }
 
 .services .icon-box:hover h4 a {
-  color: #47b2e4;
+  color: #0d681c;
 }
 
 /*--------------------------------------------------------------
@@ -1066,7 +1066,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #37517e;
+  color: #0d681c;
 }
 
 .team .member span {
@@ -1083,7 +1083,7 @@ section {
   display: block;
   width: 50px;
   height: 1px;
-  background: #cbd6e9;
+  background: #0d681c;
   bottom: 0;
   left: 0;
 }
@@ -1149,12 +1149,12 @@ section {
   font-weight: 500;
   margin-bottom: 15px;
   font-size: 20px;
-  color: #37517e;
+  color: #0d681c;
 }
 
 .pricing h4 {
   font-size: 48px;
-  color: #37517e;
+  color: #0d681c;
   font-weight: 400;
   font-family: "Jost", sans-serif;
   margin-bottom: 25px;
@@ -1165,7 +1165,7 @@ section {
 }
 
 .pricing h4 span {
-  color: #47b2e4;
+  color: #0d681c;
   font-size: 18px;
   display: block;
 }
@@ -1294,7 +1294,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #47b2e4;
+  color: #0d681c;
 }
 
 .faq .faq-list .icon-show, .faq .faq-list .icon-close {
@@ -1314,12 +1314,12 @@ section {
 }
 
 .faq .faq-list a.collapsed {
-  color: #37517e;
+  color: #0d671b;
   transition: 0.3s;
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: #47b2e4;
+  color: #0d671b;
 }
 
 .faq .faq-list a.collapsed .icon-show {
@@ -1340,17 +1340,17 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info {
-  border-top: 3px solid #47b2e4;
-  border-bottom: 3px solid #47b2e4;
+  border-top: 3px solid #0d671b;
+  border-bottom: 3px solid #0d671b;
   padding: 30px;
-  background: #fff;
+  background: #ffffff;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
 }
 
 .contact .info i {
   font-size: 20px;
-  color: #47b2e4;
+  color: #0d671b;
   float: left;
   width: 44px;
   height: 44px;
@@ -1367,14 +1367,14 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #37517e;
+  color: #0d671b;
 }
 
 .contact .info p {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #6182ba;
+  color: #0d671b;
 }
 
 .contact .info .email p {
@@ -1388,7 +1388,7 @@ section {
 .contact .info .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #333;
+  background: #0d671b;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1401,19 +1401,19 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #47b2e4;
+  background: #0d671b;
   color: #fff;
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #47b2e4;
+  background: #0d671b;
   color: #fff;
 }
 
 .contact .php-email-form {
   width: 100%;
-  border-top: 3px solid #47b2e4;
-  border-bottom: 3px solid #47b2e4;
+  border-top: 3px solid #0d671b;
+  border-bottom: 3px solid #0d671b;
   padding: 30px;
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
@@ -1434,7 +1434,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #0d671b;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1443,7 +1443,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #0d671b;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1477,7 +1477,7 @@ section {
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #47b2e4;
+  border-color: #0d671b;
 }
 
 .contact .php-email-form input {
@@ -1489,7 +1489,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #47b2e4;
+  background: #0d671b;
   border: 0;
   padding: 12px 34px;
   color: #fff;
@@ -1498,7 +1498,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #209dd8;
+  background: #0d671b;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1524,7 +1524,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #f3f5fa;
+  background: #0d671b;
   min-height: 40px;
   margin-top: 72px;
 }
@@ -1538,7 +1538,7 @@ section {
 .breadcrumbs h2 {
   font-size: 28px;
   font-weight: 600;
-  color: #37517e;
+  color: #0d671b;
 }
 
 .breadcrumbs ol {
@@ -1557,7 +1557,7 @@ section {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #4668a2;
+  color: #0d671b;
   content: "/";
 }
 
@@ -1592,7 +1592,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #47b2e4 !important;
+  background-color: #0d671b!important;
 }
 
 .portfolio-details .portfolio-info {
@@ -1661,7 +1661,7 @@ section {
   background: #f3f5fa;
   text-align: center;
   font-size: 15px;
-  color: #444444;
+  color: #0d671b;
 }
 
 #footer .footer-newsletter h4 {
@@ -1670,7 +1670,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 600;
-  color: #37517e;
+  color: #0d671b;
 }
 
 #footer .footer-newsletter form {
@@ -1698,7 +1698,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #47b2e4;
+  background: #0d671b;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1706,7 +1706,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #209dd8;
+  background: ##0d671b;
 }
 
 #footer .footer-top {
@@ -1725,7 +1725,7 @@ section {
   line-height: 1;
   text-transform: uppercase;
   font-weight: 600;
-  color: #37517e;
+  color: #0d671b;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1733,13 +1733,13 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Jost", sans-serif;
-  color: #5e5e5e;
+  color: #0d671b;
 }
 
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #37517e;
+  color: #0d671b;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1756,7 +1756,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #47b2e4;
+  color: #0d671b;
   font-size: 18px;
   line-height: 1;
 }
@@ -1772,7 +1772,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #777777;
+  color: #0d671b;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -1786,7 +1786,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #47b2e4;
+  background: #0d671b;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1799,7 +1799,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #209dd8;
+  background: #201c4f;
   color: #fff;
   text-decoration: none;
 }
