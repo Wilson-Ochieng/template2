@@ -10,15 +10,15 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #000;
 }
 
 a {
-  color: #47b2e4;
+  color: #e44798;
 }
 
 a:hover {
-  color: #73c5eb;
+  color: #eb73bb;
   text-decoration: none;
 }
 
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #201c4f;
+  border: 6px solid #0d681c;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #fff;
+  color: #ffffff;
   transition: 0.3s;
   font-size: 15px;
   letter-spacing: 0.5px;
@@ -165,7 +165,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #201c4f;
+  color: #4f1c3c;
 }
 
 .nav-menu .drop-down ul {
@@ -256,7 +256,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
   font-size: 14px;
   display: inline-block;
-  border: 2px solid #201c4f;
+  border: 2px solid none;
   font-weight: 600;
 }
 
@@ -395,7 +395,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero h1 {
   margin: 0 0 10px 0;
   font-size: 48px;
-  font-weight: 700;
+  font-weight: 200;
   line-height: 56px;
   color: #fff;
 }
@@ -421,7 +421,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #201c4f;
+  background: none;
 }
 
 #hero .btn-watch-video {
@@ -444,7 +444,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-watch-video:hover i {
-  color: #201c4f;
+  color: #4f1c3d;
 }
 
 #hero .animated {
@@ -544,7 +544,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #37517e;
+  color: #0d681c;
 }
 
 .section-title h2::before {
@@ -605,8 +605,9 @@ section {
 /*--------------------------------------------------------------
 # About Us
 --------------------------------------------------------------*/
+
 .about .content h3 {
-  font-weight: 600;
+  font-weight: 1000;
   font-size: 26px;
 }
 
@@ -630,6 +631,7 @@ section {
   top: 2px;
   font-size: 20px;
   color: #0d681c;
+
   line-height: 1;
 }
 
@@ -826,7 +828,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #0d681c;
+  color: #000;
 }
 
 .skills .progress .skill .val {
@@ -848,6 +850,12 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+
+.services-title{
+  background: #fff;
+}
+
+
 .services .icon-box {
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   padding: 50px 30px;
@@ -1040,7 +1048,7 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   padding: 30px;
   border-radius: 5px;
-  background: #fff;
+  background: #0d681c;
   transition: 0.5s;
 }
 
@@ -1066,7 +1074,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #0d681c;
+  color: #ffffff;
 }
 
 .team .member span {
@@ -1273,7 +1281,7 @@ section {
 
 .faq .faq-list li {
   padding: 20px;
-  background: #fff;
+  background: #0d671b;
   border-radius: 4px;
   position: relative;
 }
@@ -1294,7 +1302,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #0d681c;
+  color: #ffffff;
 }
 
 .faq .faq-list .icon-show, .faq .faq-list .icon-close {
@@ -1314,12 +1322,12 @@ section {
 }
 
 .faq .faq-list a.collapsed {
-  color: #0d671b;
+  color: #ffffff;
   transition: 0.3s;
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: #0d671b;
+  color: #ffffff;
 }
 
 .faq .faq-list a.collapsed .icon-show {
@@ -1658,7 +1666,7 @@ section {
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #f3f5fa;
+  background: #0d681c;
   text-align: center;
   font-size: 15px;
   color: #0d671b;
