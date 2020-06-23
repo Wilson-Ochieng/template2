@@ -417,7 +417,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin: 10px 0 0 0;
   color: #fff;
-  background: #dadce3;
+  background: none;
 }
 
 #hero .btn-get-started:hover {
@@ -1219,21 +1219,22 @@ team title-bg;000;
 }
 
 .pricing .buy-btn:hover {
-  background: #f3f5fa;
-  color: #fff;
+  background: none;
+  color: 000;
 }
 
 .pricing .featured {
-  border-top-color: #47b2e4;
+  border-top-color: #f3f5fa;
 }
 
 .pricing .featured .buy-btn {
-  background: #f3f5fa;
+  background: none;
   color: #000;
 }
 
 .pricing .featured .buy-btn:hover {
-  background: #f3f5fa;
+  background: none;
+
 }
 
 @media (max-width: 992px) {
@@ -1414,8 +1415,8 @@ team title-bg;000;
 
 .contact .php-email-form {
   width: 100%;
-  border-top: 3px solid #47b2e4;
-  border-bottom: 3px solid #47b2e4;
+  border-top: 3px solid #f3f5fa;
+  border-bottom: 3px solid #f3f5fa;
   padding: 30px;
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
@@ -1444,8 +1445,8 @@ team title-bg;000;
 
 .contact .php-email-form .sent-message {
   display: none;
-  color: #fff;
-  background: #18d26e;
+  color: #0f6d25;
+  background: #0f6d25;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1453,7 +1454,7 @@ team title-bg;000;
 
 .contact .php-email-form .loading {
   display: none;
-  background: #fff;
+  background: #0f6d25;
   text-align: center;
   padding: 15px;
 }
@@ -1465,7 +1466,7 @@ team title-bg;000;
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
+  border: 3px solid #0f6d25;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1479,7 +1480,7 @@ team title-bg;000;
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #47b2e4;
+  border-color: #0f6d25;
 }
 
 .contact .php-email-form input {
@@ -1491,7 +1492,7 @@ team title-bg;000;
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #47b2e4;
+  background: #0f6d25;
   border: 0;
   padding: 12px 34px;
   color: #fff;
@@ -1500,7 +1501,7 @@ team title-bg;000;
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #209dd8;
+  background: #158a30;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1801,7 +1802,7 @@ team title-bg;000;
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #158a30;
+  background: #209dd8;
   color: #fff;
   text-decoration: none;
 }
