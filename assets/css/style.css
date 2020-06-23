@@ -1728,7 +1728,7 @@ team title-bg;000;
   line-height: 1;
   text-transform: uppercase;
   font-weight: 600;
-  color: #37517e;
+  color: 000;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1736,13 +1736,13 @@ team title-bg;000;
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Jost", sans-serif;
-  color: #5e5e5e;
+  color: #000;
 }
 
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #37517e;
+  color: #000;
   position: relative;
   padding-bottom: 12px;
 }
