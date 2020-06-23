@@ -670,7 +670,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #000;
+  color: #282a2e;
 }
 
 .why-us .content h4 {
@@ -681,7 +681,7 @@ section {
 
 .why-us .content p {
   font-size: 15px;
-  color: #848484;
+  color: #282a2e;
 }
 
 .why-us .img {
@@ -721,7 +721,7 @@ section {
 }
 
 .why-us .accordion-list span {
-  color: #47b2e4;
+  color: #282a2e;
   font-weight: 600;
   font-size: 18px;
   padding-right: 10px;
@@ -745,11 +745,11 @@ section {
 }
 
 .why-us .accordion-list a.collapsed {
-  color: #666666;
+  color: #282a2e;
 }
 
 .why-us .accordion-list a.collapsed:hover {
-  color: #666666;
+  color: #282a2e;
 }
 
 .why-us .accordion-list a.collapsed .icon-show {
@@ -757,7 +757,7 @@ section {
 }
 
 .why-us .accordion-list a.collapsed .icon-close {
-  display: #666666;
+  display: #282a2e;
 }
 
 @media (max-width: 1024px) {
@@ -789,9 +789,9 @@ section {
 # Skills
 --------------------------------------------------------------*/
 .skills .content h3 {
-  font-weight: 700;
+  font-weight: 400;
   font-size: 32px;
-  color: #000;
+  color: #282a2e;
   font-family: "Poppins", sans-serif;
 }
 
@@ -1296,7 +1296,7 @@ team title-bg;000;
   position: absolute;
   right: 0;
   left: 20px;
-  color: #47b2e4;
+  color: #282a2e;
 }
 
 .faq .faq-list .icon-show, .faq .faq-list .icon-close {
@@ -1316,12 +1316,12 @@ team title-bg;000;
 }
 
 .faq .faq-list a.collapsed {
-  color: #37517e;
+  color: #282a2e;
   transition: 0.3s;
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: #47b2e4;
+  color: #282a2e;
 }
 
 .faq .faq-list a.collapsed .icon-show {
@@ -1347,16 +1347,16 @@ team title-bg;000;
   padding: 30px;
   background: #fff;
   width: 100%;
-  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 24px 0 rgba(243, 245, 250, 1);
 }
 
 .contact .info i {
   font-size: 20px;
-  color: #47b2e4;
+  color: #0e6621;
   float: left;
   width: 44px;
   height: 44px;
-  background: #e7f5fb;
+  background: #f3f5fa;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1369,14 +1369,14 @@ team title-bg;000;
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #37517e;
+  color: #000;
 }
 
 .contact .info p {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #6182ba;
+  color:  #000;
 }
 
 .contact .info .email p {
@@ -1403,12 +1403,12 @@ team title-bg;000;
 }
 
 .contact .info .social-links a:hover {
-  background: #47b2e4;
+  background: #f3f5fa;
   color: #fff;
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #47b2e4;
+  background: #f3f5fa;
   color: #fff;
 }
 
@@ -1758,7 +1758,7 @@ team title-bg;000;
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #47b2e4;
+  color: #0f6d25;
   font-size: 18px;
   line-height: 1;
 }
@@ -1782,13 +1782,13 @@ team title-bg;000;
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #47b2e4;
+  color: #f3f5fa;
 }
 
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #47b2e4;
+  background: #0f6d25;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1801,7 +1801,7 @@ team title-bg;000;
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #209dd8;
+  background: #158a30;
   color: #fff;
   text-decoration: none;
 }
