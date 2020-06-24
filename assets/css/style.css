@@ -863,7 +863,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color: #0e6721;
+  color: #1dc046;
   font-size: 36px;
   transition: 0.3s;
 }
@@ -875,7 +875,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #0e6721;
+  color: #1dc046;
   transition: ease-in-out 0.3s;
 }
 
@@ -890,7 +890,7 @@ section {
 }
 
 .services .icon-box:hover h4 a {
-  color:#3bc458;
+  color:#21923b;
 }
 
 /*--------------------------------------------------------------
@@ -1761,7 +1761,7 @@ team title-bg;000;
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #0f6d25;
+  color:#1dc046;
   font-size: 18px;
   line-height: 1;
 }
