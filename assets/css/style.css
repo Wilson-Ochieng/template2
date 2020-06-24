@@ -92,13 +92,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 50px;
-  background: #377e43;
+  background: #1dc046;
   color: #fff;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-  background: #0ca82d;
+  background: #119633;
   color: #fff;
 }
 
@@ -300,7 +300,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: #0e6e25;
+  background: #1dc046;
   transition: ease-in-out 0.2s;
   opacity: 0;
   visibility: hidden;
@@ -387,7 +387,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #1dc146;
+  background: #1dc146 ;
 }
 
 #hero .container {
@@ -653,7 +653,7 @@ section {
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   margin-top: 6px;
-  border: 2px solid #dadce3;
+  border: 2px solid #1dc046;
 }
 
 .about .content .btn-learn-more:hover {
@@ -672,7 +672,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #282a2e;
+  color: #f3f5fa;
 }
 
 .why-us .content h4 {
@@ -683,7 +683,7 @@ section {
 
 .why-us .content p {
   font-size: 15px;
-  color: #282a2e;
+  color: #f3f5fa;
 }
 
 .why-us .img {
@@ -723,7 +723,7 @@ section {
 }
 
 .why-us .accordion-list span {
-  color: #282a2e;
+  color: #1dc046;
   font-weight: 600;
   font-size: 18px;
   padding-right: 10px;
@@ -747,11 +747,11 @@ section {
 }
 
 .why-us .accordion-list a.collapsed {
-  color: #282a2e;
+  color: #000;
 }
 
 .why-us .accordion-list a.collapsed:hover {
-  color: #282a2e;
+  color: #000;
 }
 
 .why-us .accordion-list a.collapsed .icon-show {
@@ -793,7 +793,7 @@ section {
 .skills .content h3 {
   font-weight: 400;
   font-size: 32px;
-  color: #282a2e;
+  color: #1dc046;
   font-family: "Poppins", sans-serif;
 }
 
@@ -809,7 +809,7 @@ section {
 .skills .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #f3f5fa;
+  color: #1dc046;
 }
 
 .skills .content p:last-child {
@@ -838,14 +838,14 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #0e6721;
+  background: #1dc046;
 }
 
 .skills .progress-bar {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #0e6721;
+  background-color: #1dc046;
 }
 
 /*--------------------------------------------------------------
@@ -1355,7 +1355,7 @@ team title-bg;000;
 
 .contact .info i {
   font-size: 20px;
-  color: #0e6621;
+  color: #1dc046;
   float: left;
   width: 44px;
   height: 44px;
@@ -1447,8 +1447,8 @@ team title-bg;000;
 
 .contact .php-email-form .sent-message {
   display: none;
-  color: #0f6d25;
-  background: #0f6d25;
+  color: #1dc046;
+  background: #1dc046;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1456,7 +1456,7 @@ team title-bg;000;
 
 .contact .php-email-form .loading {
   display: none;
-  background: #0f6d25;
+  background: #1dc046;
   text-align: center;
   padding: 15px;
 }
@@ -1468,7 +1468,7 @@ team title-bg;000;
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #0f6d25;
+  border: 3px solid #1dc046;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1482,7 +1482,7 @@ team title-bg;000;
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #0f6d25;
+  border-color: #1dc046;
 }
 
 .contact .php-email-form input {
@@ -1494,7 +1494,7 @@ team title-bg;000;
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #0f6d25;
+  background: #1dc046;
   border: 0;
   padding: 12px 34px;
   color: #fff;
@@ -1503,7 +1503,7 @@ team title-bg;000;
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #158a30;
+  background: #1dc046;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1791,7 +1791,7 @@ team title-bg;000;
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #0f6d25;
+  background: #1dc046;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1804,7 +1804,7 @@ team title-bg;000;
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #209dd8;
+  background: #25883e;
   color: #fff;
   text-decoration: none;
 }
