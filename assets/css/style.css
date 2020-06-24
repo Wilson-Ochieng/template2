@@ -364,6 +364,8 @@ h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
   display: none;
   transition: ease-in-out 0.2s;
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
 }
 
 .mobile-nav-active {
